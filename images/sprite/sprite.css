@@ -1,0 +1,32 @@
+/* ----------------------------------------------------
+   created with http://www.texturepacker.com 
+   ----------------------------------------------------
+   $TexturePacker:SmartUpdate:79bd2bd79d90ebdf0b9c225b3618f745$
+   ----------------------------------------------------
+
+   usage: <span class="{-spritename-} sprite"></span>
+
+   replace {-spritename-} with the sprite you like to use
+
+*/
+
+.sprite {display:inline-block; overflow:hidden; background-repeat: no-repeat;background-image:url(sprite.png);}
+
+.icon_02 {width:28px; height:28px; background-position: -110px -202px}
+.icon_03 {width:28px; height:28px; background-position: -88px -172px}
+.icon_04 {width:28px; height:28px; background-position: -80px -218px}
+.icon_05 {width:47px; height:38px; background-position: -100px -86px}
+.icon_06 {width:47px; height:38px; background-position: -51px -86px}
+.icon_07 {width:47px; height:38px; background-position: -2px -86px}
+.icon_ask {width:43px; height:44px; background-position: -47px -126px}
+.icon_book {width:43px; height:44px; background-position: -2px -193px}
+.icon_book_wh {width:43px; height:44px; background-position: -2px -147px}
+.icon_f01 {width:39px; height:44px; background-position: -47px -172px}
+.icon_f02 {width:55px; height:44px; background-position: -159px -55px}
+.icon_f03 {width:35px; height:44px; background-position: -216px -55px}
+.icon_f04 {width:41px; height:44px; background-position: -92px -126px}
+.icon_more {width:31px; height:31px; background-position: -47px -218px}
+.icon_position {width:43px; height:44px; background-position: -194px -101px}
+.icon_qq {width:43px; height:44px; background-position: -149px -101px}
+.logo_footer {width:226px; height:51px; background-position: -2px -2px}
+.tel_footer {width:155px; height:29px; background-position: -2px -55px}

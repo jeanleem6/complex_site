@@ -1,0 +1,503 @@
+/*不孕不育科室*/
+.bg_infertility{background-color:#07a2b8}
+.bg_infertility li a:hover,
+.bg_infertility li.on a{background-color:#0ad6f3}
+.bg_infertility .sub_nav {background-color:#0ad6f3}
+.bg_infertility li.on .sub_nav a:hover {background-color: #07a2b8}
+.bg_infertility li.bg_on_infertility a{background-color:#0ad6f3}
+.infer_container  .bx-wrapper .bx-pager.bx-default-pager a:hover{background-color:#0ad6f3}
+.infer_container  .bx-wrapper .bx-pager.bx-default-pager a.active{background-color:#0ad6f3}
+.infer_container  .bx-wrapper .bx-pager.bx-default-pager a.active:after{border-color:transparent transparent #0ad6f3 transparent}
+.c_infertility{color:#07a2b8;}
+.infer_container .hot_focus .q1,
+.infer_container .hot_focus .q4,
+.infer_container .hot_focus .q8{color:#07a2b8}
+.infer_nav .t{color:#07a2b8;}
+.infer_nav .line{background-color:#07a2b8}
+.slider_left_t .infer_tab_nav li.hover a{color:#07a2b8;border:1px solid #07a2b8;border-right-color:#fff;border-left-width: 3px;}
+.slider_left_t .infer_con_l .links .infer_ask{background-color:#07a2b8;}
+.slider_left_t .infer_con_l{border:1px solid #07a2b8}
+.slider_left_t .infer_tab_nav{border-right-color:#07a2b8}
+.infer_slider_left_t .con_l .links .ask{background-color:#07a2b8}
+.infer_slider_left_t .row1 h3 a{color:#07a2b8}
+.infer_equipment_show .el .n1{background:#07a2b8}
+.infer_slider_doctor .tab_nav .hover a{background-color:#0ad6f3;border-color:#0ad6f3}
+.infer_slider_doctor .tab_nav .hover a:after{border-color:#07a2b8 transparent transparent transparent}
+.infer_slider_doctor .tab_con .name span{color:#07a2b8}
+.infer_slider_doctor .tab_con .name span:hover{color:#0ad6f3}
+.infer_slider_doctor .tab_con .name:hover{color:#0ad6f3}
+.infer_slider_doctor .tab_con .behavior{background-color:#07a2b8}
+.infer_slider_doctor .tab_con .behavior:hover{background-color:#0ad6f3}
+.infer_ft_brand .t{background-color:#07a2b8}
+.infer_ft_brand .t .box{border-color:#fff}
+.infer_ft_brand .t .box:before{border-color:transparent #fff transparent transparent}
+.infer_ft_brand .t .box:after{border-color:#fff transparent transparent transparent}
+.infer_footer{background-color:#07a2b8}
+.infer_footer .icon_05{background-position: -90px -129px}
+.infer_footer .icon_06{width:47px;height:38px;background-position: -126px -163px}
+.infer_footer .f2 .btn{background-color:#0ad6f3}
+.infer_footer .f2{border-left-color:#0ad6f3;border-right-color:#0ad6f3;}
+.slider_left_t .infer_tec{background-color:#07a2b8}
+.slider_left_t .infer_tec .img i{background-color:#07a2b8}
+.slider_left_t .infer_tec .intro .subt{color:#07a2b8}
+.slider_left_t .infer_tec .bx-wrapper .bx-pager.bx-default-pager a.active{background-color: #0ad6f3}
+.infer_side_technic .con .t{color:#07a2b8}
+.infer_side_technic .bx-wrapper .bx-prev{background:url(../images/controls2.png) no-repeat}
+.infer_side_technic .bx-wrapper .bx-next{background:url(../images/controls2.png) no-repeat -31px 0}
+.infer_side_interro .con .i{background-color:#07a2b8}
+.infer_side_interro .con .btn1{color:#07a2b8}
+.infer_side_icon .sprite{background: url(../images/sprite2.png) no-repeat;}
+.infer_side_icon .icon_qq{background-position:0 -75px;}.ear_side_icon .icon_qq{background-position:0 -75px;}
+/*产科室*/
+.bg_maternity{background-color:#e86584}
+.bg_maternity li a:hover,
+.bg_maternity li.on a{background-color:#c14060}
+.bg_maternity .sub_nav {background-color:#c14060}
+.bg_maternity li.on .sub_nav a:hover {background-color: #e86584}
+.bg_maternity li.bg_on_maternity a{background-color:#c14060}
+.mater_container  .bx-wrapper .bx-pager.bx-default-pager a:hover{background-color:#c14060}
+.mater_container  .bx-wrapper .bx-pager.bx-default-pager a.active{background-color:#c14060}
+.mater_container  .bx-wrapper .bx-pager.bx-default-pager a.active:after{border-color:transparent transparent #c14060 transparent}
+.c_maternity{color:#e86584;}
+.mater_container .hot_focus .q1,
+.mater_container .hot_focus .q4,
+.mater_container .hot_focus .q8{color:#e86584}
+.mater_nav .t{color:#e86584;}
+.mater_nav .line{background-color:#e86584}
+.mater_nav .row6 li{width:200px;}
+.slider_left_t .mater_tab_nav li.hover a{color:#e86584;border:1px solid #e86584;border-right-color:#fff;border-left-width: 3px;}
+.slider_left_t .mater_con_l .links .mater_ask{background-color:#e86584;}
+.mater_container .slider_left_t .con_l{border:1px solid #e86584}
+.slider_left_t .mater_tab_nav{border-right-color:#e86584}
+.slider_left_t .mater_row1 h3 a{color:#e86584}
+.mater_slider_left_t .con_l .links .ask{background-color:#e86584;}
+.mater_slider_left_t .row1 h3 a{color:#e86584}
+.mater_equipment_show .el .n1{background:#e86584}
+.mater_slider_doctor .tab_nav .hover a{background-color:#e86584;border-color:#e86584}
+.mater_slider_doctor .tab_nav .hover a:after{border-color:#e86584 transparent transparent transparent}
+.mater_slider_doctor .tab_con .name span{color:#e86584}
+.mater_slider_doctor .tab_con .name span:hover{color:#e5136c}
+.mater_slider_doctor .tab_con .name:hover{color:#e5136c}
+.mater_slider_doctor .tab_con .behavior{background-color:#e86584}
+.mater_slider_doctor .tab_con .behavior:hover{background-color:#e5136c}
+.mater_ft_brand .t{background-color:#e86584}
+.mater_ft_brand .t .box{border-color:#fff}
+.mater_ft_brand .t .box:before{border-color:transparent #fff transparent transparent}
+.mater_ft_brand .t .box:after{border-color:#fff transparent transparent transparent}
+.mater_footer{background-color:#e86584}
+.mater_footer .icon_05{background-position: -90px -129px}
+.mater_footer .icon_06{width:47px;height:38px;background-position: -126px -163px}
+.mater_footer .f2 .btn{background-color:#c14060}
+.mater_footer .f2{border-left-color:#c14060;border-right-color:#c14060;}
+.mater_container .slider_left_t .tec{border-bottom: 1px solid #e86584;background-color:#e86584}
+.mater_container .slider_left_t .tec .img i{background-color:#e86584}
+.slider_left_t .mater_tec .intro .subt{color:#e86584}
+.slider_left_t .mater_tec .bx-wrapper .bx-pager.bx-default-pager a.active{background-color: #c14060}
+.mater_side_technic .con .t{color:#e86584}
+.mater_side_technic .bx-wrapper .bx-prev{background:url(../images/control3.png) no-repeat}
+.mater_side_technic .bx-wrapper .bx-next{background:url(../images/control3.png) no-repeat -31px 0}
+.mater_side_interro .con .i{background-color:#e86584}
+.mater_side_interro .con .btn1{color:#e86584}
+.mater_side_icon .sprite{background: url(../images/icon_total.png) no-repeat;}
+.mater_side_icon .icon_ask{background-position:-67px 0}
+.mater_side_icon .icon_qq{background-position:-67px -78px}
+.mater_side_icon .icon_book{background-position:-67px -160px}
+/*耳鼻喉科室*/
+.bg_earnose{background-color:#89b659}
+.bg_earnose li a:hover,
+.bg_earnose li.on a{background-color:#6fc90f}
+.bg_earnose .sub_nav {background-color:#6fc90f}
+.bg_earnose li.on .sub_nav a:hover {background-color: #89b659}
+.bg_earnose li.bg_on_earnose a{background-color:#6fc90f}
+.ear_container  .bx-wrapper .bx-pager.bx-default-pager a:hover{background-color:#6fc90f}
+.ear_container  .bx-wrapper .bx-pager.bx-default-pager a.active{background-color:#6fc90f}
+.ear_container  .bx-wrapper .bx-pager.bx-default-pager a.active:after{border-color:transparent transparent #6fc90f transparent}
+.c_earnose{color:#89b659;}
+.ear_container .hot_focus .q1,
+.ear_container .hot_focus .q4,
+.ear_container .hot_focus .q8 {color:#89b659}
+.ear_nav .row6 li{width:23%;}
+.ear_nav .t{color:#89b659;}
+.ear_nav .line{background-color:#89b659}
+.slider_left_t .ear_tab_nav li.hover a{color:#89b659;border:1px solid #89b659;border-right-color:#fff;border-left-width: 3px;}
+.slider_left_t .ear_con_l .links .ear_ask{background-color:#89b659;}
+.slider_left_t .ear_con_l{border:1px solid #89b659}
+.slider_left_t .ear_tab_nav{border-right-color:#89b659}
+.slider_left_t .ear_row1 h3 a{color:#89b659}
+.ear_slider_left_t .con_l .links .ask{background-color:#89b659;}
+.ear_slider_left_t .row1 h3 a{color:#89b659}
+.ear_equipment_show .el .n1{background:#89b659}
+.ear_slider_doctor .tab_nav .hover a{background-color:#89b659;border-color:#89b659}
+.ear_slider_doctor .tab_nav .hover a:after{border-color:#89b659 transparent transparent transparent}
+.ear_slider_doctor .tab_con .name span{color:#89b659}
+.ear_slider_doctor .tab_con .name span:hover{color:#e5136c}
+.ear_slider_doctor .tab_con .name:hover{color:#e5136c}
+.ear_slider_doctor .tab_con .behavior{background-color:#89b659}
+.ear_slider_doctor .tab_con .behavior:hover{background-color:#e5136c}
+.ear_ft_brand .t{background-color:#89b659}
+.ear_ft_brand .t .box{border-color:#fff}
+.ear_ft_brand .t .box:before{border-color:transparent #fff transparent transparent}
+.ear_ft_brand .t .box:after{border-color:#fff transparent transparent transparent}
+.ear_footer{background-color:#89b659}
+.ear_footer .icon_05{background-position: -90px -129px}
+.ear_footer .icon_06{width:47px;height:38px;background-position: -126px -163px}
+.ear_footer .f2 .btn{background-color:#6fc90f}
+.ear_footer .f2{border-left-color:#6fc90f;border-right-color:#6fc90f;}
+.slider_left_t .ear_tec{border-bottom: 1px solid #89b659;background-color:#89b659}
+.slider_left_t .ear_tec .img i{background-color:#89b659}
+.slider_left_t .ear_tec .intro .subt{color:#89b659}
+.slider_left_t .ear_tec .bx-wrapper .bx-pager.bx-default-pager a.active{background-color: #6fc90f}
+.ear_side_technic .con .t{color:#89b659}
+.ear_side_technic .bx-wrapper .bx-prev{background:url(../images/controls4.png) no-repeat}
+.ear_side_technic .bx-wrapper .bx-next{background:url(../images/controls4.png) no-repeat -31px 0}
+.ear_side_interro .con .i{background-color:#89b659}
+.ear_side_interro .con .btn1{color:#89b659}
+.ear_side_icon .sprite{background: url(../images/icon_total.png) no-repeat;}
+.ear_side_icon .icon_ask{background-position:-201px 4px;}
+.ear_side_icon .icon_qq{background-position:-201px -78px}
+.ear_side_icon .icon_book{background-position:-201px -160px}
+
+/*妇科科室*/
+.bg_gynaecology{background-color:#d35389}
+.bg_gynaecology li a:hover,
+.bg_gynaecology li.on a{background-color:#b53b6d}
+.bg_gynaecology .sub_nav {background-color:#e5136c}
+.bg_gynaecology li.on .sub_nav a:hover {background-color: #d35389}
+.bg_gynaecology li.bg_on_gynaecology a{background-color:#e5136c}
+.gynae_container  .bx-wrapper .bx-pager.bx-default-pager a:hover{background-color:#e5136c}
+.gynae_container  .bx-wrapper .bx-pager.bx-default-pager a.active{background-color:#e5136c}
+.gynae_container  .bx-wrapper .bx-pager.bx-default-pager a.active:after{border-color:transparent transparent #e5136c transparent}
+.c_gynaecology{color:#d35389;}
+.gynae_container .hot_focus .q1,
+.gynae_container .hot_focus .q4,
+.gynae_container .hot_focus .q8 {color:#d35389}
+.gynae_nav .t{color:#d35389;}
+.gynae_nav .row6 li{width:200px;}
+.gynae_nav .line{background-color:#d35389}
+.slider_left_t .gynae_tab_nav li.hover a{color:#d35389;border:1px solid #d35389;border-right-color:#fff;border-left-width: 3px;}
+.slider_left_t .gynae_con_l{border:1px solid #d35389}
+.slider_left_t .gynae_tab_nav{border-right-color:#d35389}
+.gynae_slider_left_t .con_l .links .ask{background-color:#d35389;}
+.gynae_slider_left_t .row1 h3 a{color:#d35389}
+.gynae_equipment_show .el .n1{background:#d35389}
+.gynae_slider_doctor .tab_nav .hover a{background-color:#d35389;border-color:#d35389}
+.gynae_slider_doctor .tab_nav .hover a:after{border-color:#d35389 transparent transparent transparent}
+.gynae_slider_doctor .tab_con .name span{color:#d35389}
+.gynae_slider_doctor .tab_con .name span:hover{color:#e5136c}
+.gynae_slider_doctor .tab_con .name:hover{color:#e5136c}
+.gynae_slider_doctor .tab_con .behavior{background-color:#d35389}
+.gynae_slider_doctor .tab_con .behavior:hover{background-color:#e5136c}
+.gynae_ft_brand .t{background-color:#d35389}
+.gynae_ft_brand .t .box{border-color:#fff}
+.gynae_ft_brand .t .box:before{border-color:transparent #fff transparent transparent}
+.gynae_ft_brand .t .box:after{border-color:#fff transparent transparent transparent}
+.gynae_footer{background-color:#d35389}
+.gynae_footer .icon_05{background-position: -90px -129px}
+.gynae_footer .icon_06{width:47px;height:38px;background-position: -126px -163px}
+.gynae_footer .f2 .btn{background-color:#e5136c}
+.gynae_footer .f2{border-left-color:#e5136c;border-right-color:#e5136c;}
+.slider_left_t .gynae_tec{border-bottom: 1px solid #d35389;background-color:#d35389}
+.slider_left_t .gynae_tec .img i{background-color:#d35389}
+.slider_left_t .gynae_tec .intro .subt{color:#d35389}
+.slider_left_t .gynae_tec .bx-wrapper .bx-pager.bx-default-pager a.active{background-color: #e5136c}
+.gynae_side_technic .con .t{color:#d35389}
+.gynae_side_technic .bx-wrapper .bx-controls-direction a {background:url(../images/control3.png) no-repeat}
+.gynae_side_technic .bx-wrapper .bx-prev:hover{background-position: 0 -27px}
+.gynae_side_technic .bx-wrapper .bx-controls-direction .bx-next{background-position: -31px 0}
+.gynae_side_technic .bx-wrapper .bx-next:hover{background-position: -31px -27px}
+.gynae_side_interro .con .i{background-color:#d35389}
+.gynae_side_interro .con .btn1{color:#d35389}
+.gynae_side_icon .sprite{background: url(../images/icon_total.png) no-repeat;}
+.gynae_side_icon .icon_ask{background-position:-66px 4px;}
+.gynae_side_icon .icon_qq{background-position:-68px -78px}
+.gynae_side_icon .icon_book{background-position:-68px -160px}
+/*肝胆结石科室*/
+.bg_liverstone{background-color:#07a2b8}
+.bg_liverstone li a:hover,
+.bg_liverstone li.on a{background-color:#08d2ef}
+.bg_liverstone .sub_nav {background-color:#08d2ef}
+.bg_liverstone li.on .sub_nav a:hover {background-color: #07a2b8}
+.bg_liverstone li.bg_on_liverstone a{background-color:#08d2ef}
+.stone_container  .bx-wrapper .bx-pager.bx-default-pager a:hover{background-color:#08d2ef}
+.stone_container  .bx-wrapper .bx-pager.bx-default-pager a.active{background-color:#08d2ef}
+.stone_container  .bx-wrapper .bx-pager.bx-default-pager a.active:after{border-color:transparent transparent #08d2ef transparent}
+.c_liverstone{color:#07a2b8;}
+.stone_container .hot_focus .q1,
+.stone_container .hot_focus .q4,
+.stone_container .hot_focus .q8{color:#07a2b8}
+.stone_nav .t{color:#07a2b8;}
+.stone_nav .line{background-color:#07a2b8}
+.stone_nav .row6 li{width:18%}
+.slider_left_t .stone_tab_nav li.hover a{color:#07a2b8;border:1px solid #07a2b8;border-right-color:#fff;border-left-width: 3px;}
+.slider_left_t .stone_con_l .links .stone_ask{background-color:#07a2b8;}
+.slider_left_t .stone_con_l{border:1px solid #07a2b8}
+.slider_left_t .stone_tab_nav{border-right-color:#07a2b8}
+.slider_left_t .stone_row1 h3 a{color:#07a2b8}
+.stone_slider_left_t .con_l .links .ask{background-color:#07a2b8;}
+.stone_slider_left_t .row1 h3 a{color:#07a2b8}
+.stone_equipment_show .el .n1{background:#07a2b8}
+.stone_slider_doctor .tab_nav .hover a{background-color:#07a2b8;border-color:#07a2b8}
+.stone_slider_doctor .tab_nav .hover a:after{border-color:#07a2b8 transparent transparent transparent}
+.stone_slider_doctor .tab_con .name span{color:#07a2b8}
+.stone_slider_doctor .tab_con .name span:hover{color:#08d2ef}
+.stone_slider_doctor .tab_con .name:hover{color:#08d2ef}
+.stone_slider_doctor .tab_con .behavior{background-color:#07a2b8}
+.stone_slider_doctor .tab_con .behavior:hover{background-color:#08d2ef}
+.stone_ft_brand .t{background-color:#07a2b8}
+.stone_ft_brand .t .box{border-color:#fff}
+.stone_ft_brand .t .box:before{border-color:transparent #fff transparent transparent}
+.stone_ft_brand .t .box:after{border-color:#fff transparent transparent transparent}
+.stone_footer{background-color:#07a2b8}
+.stone_footer .icon_05{background-position: -90px -129px}
+.stone_footer .icon_06{width:47px;height:38px;background-position: -126px -163px}
+.stone_footer .f2 .btn{background-color:#08d2ef}
+.stone_footer .f2{border-left-color:#08d2ef;border-right-color:#08d2ef;}
+.slider_left_t .stone_tec{background-color:#07a2b8}
+.slider_left_t .stone_tec .img i{background-color:#07a2b8}
+.slider_left_t .stone_tec .intro .subt{color:#07a2b8}
+.slider_left_t .stone_tec .bx-wrapper .bx-pager.bx-default-pager a.active{background-color: #08d2ef}
+.stone_side_technic .con .t{color:#07a2b8}
+.stone_side_technic .bx-wrapper .bx-prev{background:url(../images/controls2.png) no-repeat}
+.stone_side_technic .bx-wrapper .bx-next{background:url(../images/controls2.png) no-repeat -31px 0}
+.stone_side_interro .con .i{background-color:#07a2b8}
+.stone_side_interro .con .btn1{color:#07a2b8}
+.stone_side_icon .sprite{background: url(../images/sprite2.png) no-repeat;}
+.stone_side_icon .icon_qq{background-position:0 -75px;}
+/*肛肠科室*/
+.bg_anorectal{background-color:#56c2a2}
+.bg_anorectal li a:hover,
+.bg_anorectal li.on a{background-color:#13dea2}
+.bg_anorectal .sub_nav {background-color:#13dea2}
+.bg_anorectal li.on .sub_nav a:hover {background-color: #56c2a2}
+.bg_anorectal li.bg_on_anorectal a{background-color:#13dea2}
+.ano_container  .bx-wrapper .bx-pager.bx-default-pager a:hover{background-color:#13dea2}
+.ano_container  .bx-wrapper .bx-pager.bx-default-pager a.active{background-color:#13dea2}
+.ano_container  .bx-wrapper .bx-pager.bx-default-pager a.active:after{border-color:transparent transparent #13dea2 transparent}
+.ano_container .hot_focus .q1,
+.ano_container .hot_focus .q4,
+.ano_container .hot_focus .q8 {color:#56c2a2}
+.c_anorectal{color:#56c2a2}
+.ano_nav .row6 li{width:18%}
+.ano_nav .t{color:#56c2a2;}
+.ano_nav .line{background-color:#56c2a2}
+.slider_left_t .ano_tab_nav li.hover a{color:#56c2a2;border:1px solid #56c2a2;border-right-color:#fff;border-left-width: 3px;}
+.slider_left_t .ano_con_l .links .ano_ask{background-color:#56c2a2;}
+.slider_left_t .ano_con_l{border:1px solid #56c2a2}
+.slider_left_t .ano_tab_nav{border-right-color:#56c2a2}
+.slider_left_t .ano_row1 h3 a{color:#56c2a2}
+.ano_slider_left_t .con_l .links .ask{background-color:#56c2a2;}
+.ano_slider_left_t .row1 h3 a{color:#56c2a2}
+.ano_equipment_show .el .n1{background:#56c2a2}
+.ano_slider_doctor .tab_nav .hover a{background-color:#56c2a2;border-color:#56c2a2}
+.ano_slider_doctor .tab_nav .hover a:after{border-color:#56c2a2 transparent transparent transparent}
+.ano_slider_doctor .tab_con .name span{color:#56c2a2}
+.ano_slider_doctor .tab_con .name span:hover{color:#13dea2}
+.ano_slider_doctor .tab_con .name:hover{color:#13dea2}
+.ano_slider_doctor .tab_con .behavior{background-color:#56c2a2}
+.ano_slider_doctor .tab_con .behavior:hover{background-color:#13dea2}
+.ano_ft_brand .t{background-color:#56c2a2}
+.ano_ft_brand .t .box{border-color:#fff}
+.ano_ft_brand .t .box:before{border-color:transparent #fff transparent transparent}
+.ano_ft_brand .t .box:after{border-color:#fff transparent transparent transparent}
+.ano_footer{background-color:#56c2a2}
+.ano_footer .icon_05{background-position: -90px -129px}
+.ano_footer .icon_06{width:47px;height:38px;background-position: -126px -163px}
+.ano_footer .f2 .btn{background-color:#13dea2}
+.ano_footer .f2{border-left-color:#13dea2;border-right-color:#13dea2;}
+.slider_left_t .ano_tec{border-bottom: 1px solid #56c2a2;background-color:#56c2a2}
+.slider_left_t .ano_tec .img i{background-color:#56c2a2}
+.slider_left_t .ano_tec .intro .subt{color:#56c2a2}
+.slider_left_t .ano_tec .bx-wrapper .bx-pager.bx-default-pager a.active{background-color: #13dea2}
+.ano_side_technic .con .t{color:#56c2a2}
+.ano_side_technic .bx-wrapper .bx-prev{background:url(../images/controls2.png) no-repeat}
+.ano_side_technic .bx-wrapper .bx-next{background:url(../images/controls2.png) no-repeat -31px 0}
+.ano_side_interro .con .i{background-color:#56c2a2}
+.ano_side_interro .con .btn1{color:#56c2a2}
+.ano_side_icon .sprite{background: url(../images/icon_total.png)  no-repeat;}
+.ano_side_icon .icon_ask {background-position:-334px 0;}
+.ano_side_icon .icon_qq {background-position:-334px -78px;}
+.ano_side_icon .icon_book {background-position:-334px -161px;}
+/*计生科室*/
+.bg_familyplan{background-color:#e46287}
+.bg_familyplan li a:hover,
+.bg_familyplan li.on a{background-color:#e90848}
+.bg_familyplan .sub_nav {background-color:#e90848}
+.bg_familyplan li.on .sub_nav a:hover {background-color: #e46287}
+.bg_familyplan li.bg_on_familyplan a{background-color:#e90848}
+.fplan_container  .bx-wrapper .bx-pager.bx-default-pager a:hover{background-color:#e90848}
+.fplan_container  .bx-wrapper .bx-pager.bx-default-pager a.active{background-color:#e90848}
+.fplan_container  .bx-wrapper .bx-pager.bx-default-pager a.active:after{border-color:transparent transparent #e90848 transparent}
+.c_familyplan{color:#e46287;}
+.fplan_container .hot_focus .q1,
+.fplan_container .hot_focus .q4,
+.fplan_container .hot_focus .q8 {color:#e46287}
+.fplan_nav .t{color:#e46287;}
+.fplan_nav .line{background-color:#e46287}
+.slider_left_t .fplan_tab_nav li.hover a{color:#e46287;border:1px solid #e46287;border-right-color:#fff;border-left-width: 3px;}
+.slider_left_t .fplan_con_l .links .fplan_ask{background-color:#e46287;}
+.slider_left_t .fplan_con_l{border:1px solid #e46287}
+.slider_left_t .fplan_tab_nav{border-right-color:#e46287}
+.slider_left_t .fplan_row1 h3 a{color:#e46287}
+.fplan_slider_left_t .con_l .links .ask{background-color:#e46287;}
+.fplan_slider_left_t .row1 h3 a{color:#e46287}
+.fplan_equipment_show .el .n1{background:#e46287}
+.fplan_slider_doctor .tab_nav .hover a{background-color:#e46287;border-color:#e46287}
+.fplan_slider_doctor .tab_nav .hover a:after{border-color:#e46287 transparent transparent transparent}
+.fplan_slider_doctor .tab_con .name span{color:#e46287}
+.fplan_slider_doctor .tab_con .name span:hover{color:#e90848}
+.fplan_slider_doctor .tab_con .name:hover{color:#e90848}
+.fplan_slider_doctor .tab_con .behavior{background-color:#e46287}
+.fplan_slider_doctor .tab_con .behavior:hover{background-color:#e90848}
+.fplan_ft_brand .t{background-color:#e46287}
+.fplan_ft_brand .t .box{border-color:#fff}
+.fplan_ft_brand .t .box:before{border-color:transparent #fff transparent transparent}
+.fplan_ft_brand .t .box:after{border-color:#fff transparent transparent transparent}
+.fplan_footer{background-color:#e46287}
+.fplan_footer .icon_05{background-position: -90px -129px}
+.fplan_footer .icon_06{width:47px;height:38px;background-position: -126px -163px}
+.fplan_footer .f2 .btn{background-color:#e90848}
+.fplan_footer .f2{border-left-color:#e90848;border-right-color:#e90848;}
+.slider_left_t .fplan_tec{border-bottom: 1px solid #e46287;background-color:#e46287}
+.slider_left_t .fplan_tec .img i{background-color:#e46287}
+.slider_left_t .fplan_tec .intro .subt{color:#e46287}
+.slider_left_t .fplan_tec .bx-wrapper .bx-pager.bx-default-pager a.active{background-color: #e90848}
+.fplan_side_technic .con .t{color:#e46287}
+.fplan_side_technic .bx-wrapper .bx-prev{background:url(../images/controls6.png) no-repeat}
+.fplan_side_technic .bx-wrapper .bx-next{background:url(../images/controls6.png) no-repeat -31px 0}
+.fplan_side_interro .con .i{background-color:#e46287}
+.fplan_side_interro .con .btn1{color:#e46287}
+.fplan_side_icon .sprite{background: url(../images/icon_total.png) no-repeat;}
+.fplan_side_icon .icon_ask{background-position:-66px 4px;}
+.fplan_side_icon .icon_qq{background-position:-68px -78px}
+.fplan_side_icon .icon_book{background-position:-68px -160px}
+/*疝气专科室*/
+.bg_hernia{background-color:#389ce8}
+.bg_hernia li a:hover,
+.bg_hernia li.on a{background-color:#008bf4}
+.bg_hernia .sub_nav {background-color:#008bf4}
+.bg_hernia li.on .sub_nav a:hover {background-color: #389ce8}
+.bg_hernia li.bg_on_hernia a{background-color:#008bf4}
+.snia_container  .bx-wrapper .bx-pager.bx-default-pager a:hover{background-color:#008bf4}
+.snia_container  .bx-wrapper .bx-pager.bx-default-pager a.active{background-color:#008bf4}
+.snia_container  .bx-wrapper .bx-pager.bx-default-pager a.active:after{border-color:transparent transparent #008bf4 transparent}
+.c_hernia{color:#389ce8;}
+.snia_container .hot_focus .q1,
+.snia_container .hot_focus .q4,
+.snia_container .hot_focus .q8{color:#389ce8}
+.snia_nav .t{color:#389ce8;}
+.snia_nav .line{background-color:#389ce8}
+.snia_nav .row6 li{width:23%}
+.slider_left_t .snia_tab_nav li.hover a{color:#389ce8;border:1px solid #389ce8;border-right-color:#fff;border-left-width: 3px;}
+.slider_left_t .snia_con_l .links .snia_ask{background-color:#389ce8;}
+.slider_left_t .snia_con_l{border:1px solid #389ce8}
+.slider_left_t .snia_tab_nav{border-right-color:#389ce8}
+.slider_left_t .snia_row1 h3 a{color:#389ce8}
+.snia_slider_left_t .con_l .links .ask{background-color:#389ce8;}
+.snia_slider_left_t .row1 h3 a{color:#389ce8}
+.snia_equipment_show .el .n1{background:#389ce8}
+.snia_slider_doctor .tab_nav .hover a{background-color:#389ce8;border-color:#389ce8}
+.snia_slider_doctor .tab_nav .hover a:after{border-color:#389ce8 transparent transparent transparent}
+.snia_slider_doctor .tab_con .name span{color:#389ce8}
+.snia_slider_doctor .tab_con .name span:hover{color:#008bf4}
+.snia_slider_doctor .tab_con .name:hover{color:#008bf4}
+.snia_slider_doctor .tab_con .behavior{background-color:#389ce8}
+.snia_slider_doctor .tab_con .behavior:hover{background-color:#389ce8}
+.snia_ft_brand .t{background-color:#389ce8}
+.snia_ft_brand .t .box{border-color:#fff}
+.snia_ft_brand .t .box:before{border-color:transparent #fff transparent transparent}
+.snia_ft_brand .t .box:after{border-color:#fff transparent transparent transparent}
+.snia_footer{background-color:#389ce8}
+.snia_footer .icon_05{background-position: -90px -129px}
+.snia_footer .icon_06{width:47px;height:38px;background-position: -126px -163px}
+.snia_footer .f2 .btn{background-color:#008bf4}
+.snia_footer .f2{border-left-color:#008bf4;border-right-color:#008bf4;}
+.slider_left_t .snia_tec{background-color:#389ce8}
+.slider_left_t .snia_tec .img i{background-color:#389ce8}
+.slider_left_t .snia_tec .intro .subt{color:#389ce8}
+.slider_left_t .snia_tec .bx-wrapper .bx-pager.bx-default-pager a.active{background-color: #008bf4}
+.snia_side_technic .con .t{color:#389ce8}
+.snia_side_technic .bx-wrapper .bx-prev{background:url(../images/controls1.png) no-repeat}
+.snia_side_technic .bx-wrapper .bx-next{background:url(../images/controls1.png) no-repeat -31px 0}
+.snia_side_interro .con .i{background-color:#389ce8}
+.snia_side_interro .con .btn1{color:#389ce8}
+.snia_side_icon .sprite{background: url(../images/icon_total.png) no-repeat;}
+.snia_side_icon .icon_ask{background-position:-265px 4px;}
+.snia_side_icon .icon_qq{background-position:-265px -78px}
+.snia_side_icon .icon_book{background-position:-265px -160px}
+/*整形美容室*/
+.bg_cosmetology{background-color:#ba3c72}
+.bg_cosmetology li a:hover{background-color:#eb0065}
+.bg_cosmetology li.bg_on_cosmetology a{background-color:#eb0065}
+.cosme_container  .bx-wrapper .bx-pager.bx-default-pager a:hover{background-color:#eb0065}
+.cosme_container  .bx-wrapper .bx-pager.bx-default-pager a.active{background-color:#eb0065}
+.cosme_container  .bx-wrapper .bx-pager.bx-default-pager a.active:after{border-color:transparent transparent #eb0065 transparent}
+.c_cosmetology{color:#ba3c72;}
+.cosme_container .hot_focus .q1,
+.cosme_container .hot_focus .q4,
+.cosme_container .hot_focus .q8 {color:#ba3c72}
+.cosme_nav .t{color:#ba3c72;}
+.cosme_nav .line{background-color:#ba3c72}
+.cosme_nav ul{border-right: none}
+.cosme_nav  li{border:none;padding-left:0;}
+.slider_left_t .cosme_tab_nav li.hover a{color:#ba3c72;border:1px solid #ba3c72;border-right-color:#fff;border-left-width: 3px;}
+.slider_left_t .cosme_con_l .links .cosme_ask{background-color:#ba3c72;}
+.slider_left_t .cosme_con_l{border:1px solid #ba3c72}
+.slider_left_t .cosme_tab_nav{border-right-color:#ba3c72}
+.slider_left_t .cosme_row1 h3 a{color:#ba3c72}
+.cosme_slider_left_t .con_l .links .ask{background-color:#ba3c72;}
+.cosme_slider_left_t .row1 h3 a{color:#ba3c72}
+.cosme_equipment_show .el .n1{background:#ba3c72}
+.cosme_slider_doctor .tab_nav .hover a{background-color:#ba3c72;border-color:#ba3c72}
+.cosme_slider_doctor .tab_nav .hover a:after{border-color:#ba3c72 transparent transparent transparent}
+.cosme_slider_doctor .tab_con .name span{color:#ba3c72}
+.cosme_slider_doctor .tab_con .name span:hover{color:#eb0065}
+.cosme_slider_doctor .tab_con .name:hover{color:#eb0065}
+.cosme_slider_doctor .tab_con .behavior{background-color:#eb0065}
+.cosme_slider_doctor .tab_con .behavior:hover{background-color:#eb0065}
+.cosme_ft_brand .t{background-color:#ba3c72}
+.cosme_ft_brand .t .box{border-color:#fff}
+.cosme_ft_brand .t .box:before{border-color:transparent #fff transparent transparent}
+.cosme_ft_brand .t .box:after{border-color:#fff transparent transparent transparent}
+.cosme_footer{background-color:#ba3c72}
+.cosme_footer .icon_05{background-position: -90px -129px}
+.cosme_footer .icon_06{width:47px;height:38px;background-position: -126px -163px}
+.cosme_footer .f2 .btn{background-color:#9b1c52}
+.cosme_footer .f2 .btn:hover{background-color: #da005d}
+.cosme_footer .f2{border-left-color:#9b1c52;border-right-color:#9b1c52;}
+.slider_left_t .cosme_tec{border-bottom: 1px solid #ba3c72;background-color:#ba3c72}
+.slider_left_t .cosme_tec .img i{background-color:#ba3c72}
+.slider_left_t .cosme_tec .intro .subt{color:#ba3c72}
+.slider_left_t .cosme_tec .bx-wrapper .bx-pager.bx-default-pager a.active{background-color: #eb0065}
+.cosme_side_technic .con .t{color:#ba3c72}
+.cosme_side_technic .bx-wrapper .bx-prev{background:url(../images/controls9.png) no-repeat}
+.cosme_side_technic .bx-wrapper .bx-next{background:url(../images/controls9.png) no-repeat -31px 0}
+.cosme_side_interro .con .i{background-color:#ba3c72}
+.cosme_side_interro .con .btn1{color:#ba3c72}
+.cosme_side_icon .sprite{background: url(../images/icon_total.png) no-repeat;}
+.cosme_side_icon .icon_ask{background-position:-137px 4px;}
+.cosme_side_icon .icon_qq{background-position:-137px -78px}
+.cosme_side_icon .icon_book{background-position:-137px -160px}
+/*bz_type*/
+.bz_type {padding:0 0 13px}
+.bz_type li { _display:inline; position: relative; width:12%; float: left; margin:15px 0 0 20px}
+.bz_type a { display: block; position: relative; height: 32px; line-height: 1.2}
+.bz_type a i { display: inline-block; position: relative; width: 32px; height: 32px; float: left; margin-right: 5px; background:url(../images/icon_shaping.png) 0 -146px no-repeat; transition:all .3s linear 0s; behavior:url(js/csshover.htc); cursor: pointer}
+.bz_type .i1 {background-position-x: 0}
+.bz_type .i2 {background-position-x: -33px}
+.bz_type .i3 {background-position-x: -66px}
+.bz_type .i4 {background-position-x: -99px}
+.bz_type .i5 {background-position-x: -132px}
+.bz_type .i6 {background-position-x: -165px}
+.bz_type .i7 {background-position-x: -198px}
+.bz_type .i8 {background-position-x: -231px}
+.bz_type .i9 {background-position-x: -264px}
+.bz_type .i10 {background-position-x: -297px}
+.bz_type .i11 {background-position-x: -330px}
+.bz_type .i12 {background-position-x: -363px}
+.bz_type .i13 {background-position-x: -396px}
+.bz_type .i14 {background-position-x: -429px}
+.bz_type a:hover i {background-position-y: -178px}
+.bz_type a span {display: inline-block; margin-top: 3px; cursor:pointer}
+.bz_type .en {position: absolute; width: 100%; bottom:0; left:37px; _left:40px; margin-top: 0; font:9px arial; color:#999;-webkit-transform:scale(.75); -webkit-transform-origin:0 1px;}
+.bz_type a:hover .en {color:#b32d59}
+.bz_type a:hover span {color:#b32d59}
